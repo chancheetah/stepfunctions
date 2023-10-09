@@ -50,7 +50,7 @@ resource "aws_instance" "example_server" {
 
     tags = {
         Name = "testssm"
-        Consumer = "cheetuck.chan@msd.com"
+        Consumer = "chancheetah"
         Environment = "POC"
         DataClassification = "Proprietary"
         Service = "BlueSky"
